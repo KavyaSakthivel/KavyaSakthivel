@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavya! </h1>
-<div align="center">
-![Homer Simpson GIF](https://media1.tenor.com/m/hVmM21uY9hEAAAAC/homer-simpson.gif)
+<<div align="center">
+  <img src="https://media1.tenor.com/m/hVmM21uY9hEAAAAC/homer-simpson.gif" alt="Homer Simpson GIF">
 </div>
 
 <h3 align="center">I love learning new things.. I am so keen on understanding the root of how things work.I'm really passionate about AI and currently pursing a degree on it 🤓<br> I hope to learn all about our fascinating Tech world 👾</h3>
