@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavya! </h1>
 
-<div align ='center'class="tenor-gif-embed" data-postid="11140134" data-share-method="host" data-aspect-ratio="1.3369" data-width="100%"><a href="https://tenor.com/view/homer-simpson-computer-operator-error-gif-11140134">Homer Simpson GIF</a>from <a href="https://tenor.com/search/homer-gifs">Homer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="11140134" data-share-method="host" data-aspect-ratio="1.3369" data-width="100%"><a href="https://tenor.com/view/homer-simpson-computer-operator-error-gif-11140134">Homer Simpson GIF</a>from <a href="https://tenor.com/search/homer-gifs">Homer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h3 align="center">I love learning new things.. I am so keen on understanding the root of how things work.I'm really passionate about AI and currently pursing a degree on it 🤓<br> I hope to learn all about our fascinating Tech world 👾</h3>
 
