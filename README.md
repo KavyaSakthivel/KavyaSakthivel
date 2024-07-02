@@ -3,11 +3,16 @@
   <img src="https://media1.tenor.com/m/hVmM21uY9hEAAAAC/homer-simpson.gif" alt="Homer Simpson GIF">
 </div>
 
-<h3 align="center">I love learning new things.. I am so keen on understanding the root of how things work.I'm really passionate about AI and currently pursing a degree on it 🤓<br> I hope to learn all about our fascinating Tech world 👾</h3>
+<h3 align="center">I love learning new things!I am so keen on understanding the root of how things work. <br> I'm really passionate about AI and currently pursing a degree on it 🤓<br> I hope to learn all about our fascinating Tech world 👾</h3>
 
 
 - 📫 Contact me at **tokavyasakthivel@gmail.com**
-
+# Socials 🌐
+  <p>
+    <a href="https://www.linkedin.com/in/kavya-sakthivel/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
 
 # Tech Stack 📱:
 
