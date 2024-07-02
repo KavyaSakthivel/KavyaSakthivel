@@ -3,7 +3,7 @@
   <img src="https://media1.tenor.com/m/hVmM21uY9hEAAAAC/homer-simpson.gif" alt="Homer Simpson GIF">
 </div>
 
-<h3 align="center">I love learning new things!I am so keen on understanding the root of how things work. <br> I'm really passionate about AI and currently pursuing a degree in it 🤓<br> I hope to learn all about our fascinating Tech world 👾</h3>
+<h3 align="center">I love learning new things! I am so keen on understanding the root of how things work. <br> I'm really passionate about AI and currently pursuing a degree in it 🤓<br> I hope to learn all about our fascinating Tech world 👾</h3>
 
 
 - 📫 Contact me at **tokavyasakthivel@gmail.com**
