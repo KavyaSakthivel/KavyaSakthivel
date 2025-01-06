@@ -3,7 +3,7 @@
   <img src="https://media1.tenor.com/m/hVmM21uY9hEAAAAC/homer-simpson.gif" alt="Homer Simpson GIF">
 </div>
 
-<h3 align="center">Just another student :) </h3>
+<h3 align="center">A very curious student :) </h3>
 
 
 - 📫 Contact me at **tokavyasakthivel@gmail.com**
